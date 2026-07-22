@@ -6,26 +6,29 @@ Welcome to my GitHub profile! I am a Computer Engineering student at the Polytec
 
 ---
 
-## 🛠️ Programming Skills
+## ⚙️ Tech Stack & Tools
 
-*   **Languages & Tools:** C++, Python, Java, Dart, JavaScript, SQL, Power BI
-*   **Core Interests:** AI Model Development, Machine Learning, Microcontrollers, Hardware Integration
+*   **Languages:** C++, Python, Java, Dart, JavaScript, TypeScript, PHP, SQL
+*   **Frontend & Mobile:** React, Next.js, Flutter, HTML5, CSS3, Laravel Blade
+*   **Backend & BaaS:** Supabase (PostgreSQL, Realtime, Auth), Appwrite, Laravel
+*   **AI, Data & Game Dev:** NumPy, Pandas, Matplotlib, ONNX, Roboflow, Carla, Pygame, Power BI
+*   **Hardware & IoT:** Arduino, ESP32, Sensor Integration, Telemetry Systems
 
 ---
 
 ## 💻 Featured Projects
 
-| Project | Description | Link |
-| :--- | :--- | :--- |
-| **AI Plant Disease Detection App** | IoT-enabled Flutter app using ESP32 telemetry and an offline Roboflow-trained ONNX model for on-device disease detection. | [Repository](https://github.com/DavidDCN/Flutter-AI-plant-disease-detection) |
-| **Dashboard Master** | Responsive admin dashboard built with Next.js, TypeScript, Supabase, Recharts, and TanStack Table for real-time CRUD. | [Repository](https://github.com/DavidDCN/DashBoarding-Master) |
-| **Real-Time Task Manager** | Framework-less HTML/CSS/JS task app with a Supabase PostgreSQL database for live, cross-client synchronization. | [Repository](https://github.com/DavidDCN/To-do-app) |
-| **Machine Learning & AI Roadmap** | Structured repository featuring practical implementations of Python data science libraries and core ML algorithms. | [Repository](https://github.com/DavidDCN/RoadMap-to-ML-and-AI) |
-| **Movie Discovery WebApp** | React and Vite app integrating the TMDB API and an Appwrite database for custom metric-tracking and debounced search. | [Repository](https://github.com/DavidDCN/React-fundamentals) |
-| **Supabase Auth Demo** | Vanilla JS/HTML/CSS web app implementing a complete user authentication flow using Supabase Auth via CDN. | [Repository](https://github.com/DavidDCN/Log-in-Supabase-Auth-) |
-| **SQL Fundamentals** | Hands-on SQL scripts covering foundational commands, complex joins, and Window Functions on a SaaS dataset. | [Repository](https://github.com/DavidDCN/SQL-FUNDAMENTALS) |
-| **Vlog-App** | Social media web application built with PHP and Laravel Blade featuring mock authentication and full CRUD functionality. | [Repository](https://github.com/DavidDCN/Vlog-post) |
-| **2D Space Shooter Game** | Wave-based 2D shooter built using Python and Pygame with dynamic difficulty and boss encounters. | [Repository](https://github.com/DavidDCN/PYGAME) |
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **AI Plant Disease Detection** | IoT-enabled app using telemetry and an offline ONNX model for on-device diagnostics. | `Flutter`, `ESP32`, `ONNX`, `Roboflow` | [Repository](https://github.com/DavidDCN/Flutter-AI-plant-disease-detection) |
+| **Dashboard Master** | Responsive admin dashboard with interactive data visualization and real-time CRUD. | `Next.js`, `TypeScript`, `Supabase`, `Recharts` | [Repository](https://github.com/DavidDCN/DashBoarding-Master) |
+| **Real-Time Task Manager** | Framework-less task app featuring live, cross-client synchronization. | `HTML/CSS/JS`, `Supabase Realtime` | [Repository](https://github.com/DavidDCN/To-do-app) |
+| **Machine Learning Roadmap** | Practical implementations of data science libraries and core ML algorithms. | `Python`, `NumPy`, `Pandas`, `Matplotlib` | [Repository](https://github.com/DavidDCN/RoadMap-to-ML-and-AI) |
+| **Movie Discovery WebApp** | Responsive app integrating a live API and a custom metric-tracking database. | `React`, `Vite`, `Appwrite`, `TMDB API` | [Repository](https://github.com/DavidDCN/React-fundamentals) |
+| **Supabase Auth Demo** | Web app implementing a complete user authentication flow and session management. | `Vanilla JS`, `HTML/CSS`, `Supabase Auth` | [Repository](https://github.com/DavidDCN/Log-in-Supabase-Auth-) |
+| **SQL Fundamentals** | Hands-on SQL scripts covering foundational commands, complex joins, and Window Functions. | `SQL`, `Relational Databases` | [Repository](https://github.com/DavidDCN/SQL-FUNDAMENTALS) |
+| **Vlog-App** | Social media web application featuring mock authentication and full CRUD functionality. | `PHP`, `Laravel Blade`, `CSS/JS` | [Repository](https://github.com/DavidDCN/Vlog-post) |
+| **2D Space Shooter Game** | Wave-based 2D shooter with dynamic difficulty, collision detection, and boss encounters. | `Python`, `Pygame` | [Repository](https://github.com/DavidDCN/PYGAME) |
 
 ---
 
