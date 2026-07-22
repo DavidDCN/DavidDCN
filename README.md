@@ -1,53 +1,48 @@
 # Hi there, I'm David G. Dacuan III 👋
 
-Welcome to my GitHub profile! I am a Computer Engineering student at the Polytechnic University of the Philippines (2022-2026) with a strong focus on developing AI models, machine learning algorithms, and integrating hardware components for IoT systems.
+I am a software and hardware developer with a strong focus on building AI models, machine learning algorithms, and integrating microcontrollers for IoT systems.
 
-📫 **Contact Me:** daviddacuaniii@gmail.com | 0929-8871-459 | [LinkedIn](https://www.linkedin.com/in/daviddacuan/)
-
----
-
-## ⚙️ Tech Stack & Tools
-
-*   **Languages:** C++, Python, Java, Dart, JavaScript, TypeScript, PHP, SQL
-*   **Frontend & Mobile:** React, Next.js, Flutter, HTML5, CSS3, Laravel Blade
-*   **Backend & BaaS:** Supabase (PostgreSQL, Realtime, Auth), Appwrite, Laravel
-*   **AI, Data & Game Dev:** NumPy, Pandas, Matplotlib, ONNX, Roboflow, Carla, Pygame, Power BI
-*   **Hardware & IoT:** Arduino, ESP32, Sensor Integration, Telemetry Systems
+### 🌐 Connect With Me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daviddacuaniii@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daviddacuan/)
 
 ---
 
-## 💻 Featured Projects
+### 💻 Tech Stack & Tools
 
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **AI Plant Disease Detection** | IoT-enabled app using telemetry and an offline ONNX model for on-device diagnostics. | `Flutter`, `ESP32`, `ONNX`, `Roboflow` | [Repository](https://github.com/DavidDCN/Flutter-AI-plant-disease-detection) |
-| **Dashboard Master** | Responsive admin dashboard with interactive data visualization and real-time CRUD. | `Next.js`, `TypeScript`, `Supabase`, `Recharts` | [Repository](https://github.com/DavidDCN/DashBoarding-Master) |
-| **Real-Time Task Manager** | Framework-less task app featuring live, cross-client synchronization. | `HTML/CSS/JS`, `Supabase Realtime` | [Repository](https://github.com/DavidDCN/To-do-app) |
-| **Machine Learning Roadmap** | Practical implementations of data science libraries and core ML algorithms. | `Python`, `NumPy`, `Pandas`, `Matplotlib` | [Repository](https://github.com/DavidDCN/RoadMap-to-ML-and-AI) |
-| **Movie Discovery WebApp** | Responsive app integrating a live API and a custom metric-tracking database. | `React`, `Vite`, `Appwrite`, `TMDB API` | [Repository](https://github.com/DavidDCN/React-fundamentals) |
-| **Supabase Auth Demo** | Web app implementing a complete user authentication flow and session management. | `Vanilla JS`, `HTML/CSS`, `Supabase Auth` | [Repository](https://github.com/DavidDCN/Log-in-Supabase-Auth-) |
-| **SQL Fundamentals** | Hands-on SQL scripts covering foundational commands, complex joins, and Window Functions. | `SQL`, `Relational Databases` | [Repository](https://github.com/DavidDCN/SQL-FUNDAMENTALS) |
-| **Vlog-App** | Social media web application featuring mock authentication and full CRUD functionality. | `PHP`, `Laravel Blade`, `CSS/JS` | [Repository](https://github.com/DavidDCN/Vlog-post) |
-| **2D Space Shooter Game** | Wave-based 2D shooter with dynamic difficulty, collision detection, and boss encounters. | `Python`, `Pygame` | [Repository](https://github.com/DavidDCN/PYGAME) |
+**Languages**  
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frontend & Mobile**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Databases**  
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Appwrite](https://img.shields.io/badge/-Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+**Hardware & IoT**  
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
+**Data & AI**  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
-## 🚀 Experience & Internships
-
-*   **Web Designer & Software Developer (OJT) @ OLLOPA:** (July - Sept 2025) Created an e-commerce and property listing platform featuring user authentication and live item browsing.
-*   **IT Specialist Trainee (OJT) @ Computer Village.com:** (July - Sept 2024) Assembled personal computers and handled software installations.
-*   **Autonomous Vehicle AI Developer @ PUP Hygears:** (2022) Developed AI algorithms using Python and Carla software to guide and control a virtual autonomous car for the Shell competition.
-*   **Hardware Integrator @ PUP Hygears:** (2023-2024) Programmed Arduino vehicle functions, integrated physical sensors for an urban concept car's telemetry system, and competed in the Shell Eco-Marathon.
-*   **IoT Programmer @ Project Hatch (PUP Hygears):** (2022) Built a hardware-to-app infrastructure to measure soil health and increase crop productivity by providing actionable suggestions to farmers.
-*   **Systems Technician @ PUP ESRC:** Repaired and upgraded the building's Ambiance Air Quality Monitoring System to ensure proper indoor air quality.
-
----
-
-## 🏆 Education, Leadership & Certifications
-
-*   **B.S. in Computer Engineering:** Polytechnic University of the Philippines (2022 - 2026).
-*   **CCNA Certification:** Switching, Routing, and Wireless Essentials via Cisco Networking Academy (June 2025).
-*   **PUP ICPEP:** Secretariat & Executive Committee Member (2024-2025). Drafted Chapter 1 to 3 of the preamble.
-*   **Google Developers Student Club:** AI Programmer (2024-2025).
-*   **Android Developers Palawan Chapter:** Member & Bootcamp Participant (2018).
-*   **Puerto Princesa City National Science High School:** Researcher (2018-2022). Created an Automated Plant Watering System.
+### 📊 GitHub Stats
+<!-- Optional: You can add dynamic GitHub stats here using tools like github-readme-stats to keep the page visually engaging without revealing personal resume details -->
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidDCN&show_icons=true&theme=radium)](https://github.com/DavidDCN)
